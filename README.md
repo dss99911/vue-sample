@@ -34,3 +34,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - [Import Javascript Library](https://vuejsdevelopers.com/2017/04/22/vue-js-libraries-plugins/)
 - [Routing](https://v3.vuejs.org/guide/routing.html#official-router)
     - [Official Router](https://next.router.vuejs.org/introduction.html)
+- [BootstrapVue Argon](https://demos.creative-tim.com/bootstrap-vue-argon-dashboard/?ref=bvad-github-readme#/tables)
